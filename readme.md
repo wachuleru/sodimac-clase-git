@@ -1,1 +1,2 @@
-linea 1
+#mi primer repositorio remoto
+Clase git
